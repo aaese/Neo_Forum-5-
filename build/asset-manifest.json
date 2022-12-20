@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8fe6ac9c.css",
+    "main.js": "/static/js/main.2b910554.js",
+    "static/media/neo_logo.png": "/static/media/neo_logo.1662b190becb1b02936b.png",
+    "index.html": "/index.html",
+    "main.8fe6ac9c.css.map": "/static/css/main.8fe6ac9c.css.map",
+    "main.2b910554.js.map": "/static/js/main.2b910554.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fe6ac9c.css",
+    "static/js/main.2b910554.js"
+  ]
+}
